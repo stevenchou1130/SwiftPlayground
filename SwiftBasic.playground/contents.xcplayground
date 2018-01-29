@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Array_Contains'/>
+        <page name='Array_Map'/>
+        <page name='Array_Sort'/>
+        <page name='Double01'/>
+        <page name='Enum_CustomStringConvertible'/>
+        <page name='Enum01'/>
+        <page name='Enum02'/>
+        <page name='Privacy'/>
+        <page name='Set01'/>
+        <page name='String_ReplaceSpaceToUnderline'/>
+        <page name='String_SplitStringIntoArray'/>
+        <page name='Subscript'/>
+        <page name='SwitchCase'/>
+        <page name='Protocol_Extension_Test'/>
+        <page name='Tuple'/>
+        <page name='TypeCasting'/>
+        <page name='Value_Reffernce_Type01'/>
+        <page name='Value_Reffernce_Type02'/>
+    </pages>
+</playground>

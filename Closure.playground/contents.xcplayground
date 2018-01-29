@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Closure01'/>
+        <page name='Closure02'/>
+        <page name='Closure03'/>
+        <page name='Closure04'/>
+        <page name='Closure05'/>
+    </pages>
+</playground>
